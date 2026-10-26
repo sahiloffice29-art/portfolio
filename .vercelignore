@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.log
+photoshoot/
+reference website.pdf
+*-check.png
