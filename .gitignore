@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vercel/
+*.log
+
+# Local-only files kept out of the public repo
+photoshoot/
+reference website.pdf
+*-check.png
